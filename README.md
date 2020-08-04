@@ -1,11 +1,3 @@
----
-title: Dom Hallan
-date: '2020-04-08'
-spoiler: Multimedia Realtime Readme Template
-categories: ["multimedia", "all-profile"]
-githubUsername: 'Polyglotdev'
----
-
 ## Hi I'm Dom
 
 
